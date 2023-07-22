@@ -1,0 +1,46 @@
+.leading-icon {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.leading-icon .structure-don-t-copy-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.leading-icon .structure-don-t-copy {
+  border-radius: 20px;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.leading-icon .icon {
+  align-items: flex-start;
+  border-radius: 14px;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.leading-icon .web-icons-backward {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.leading-icon .button-icon-button-instance {
+  flex: 0 0 auto !important;
+}
+
+.leading-icon .button-icon-button-2 {
+  height: 20px !important;
+  left: 2px !important;
+  top: 2px !important;
+  width: 20px !important;
+}

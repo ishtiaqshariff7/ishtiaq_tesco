@@ -1,0 +1,552 @@
+.search-input {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.search-input .field-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .label-12 {
+  align-self: stretch;
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.search-input .hint-2 {
+  align-self: stretch;
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.search-input .field-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .contents {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.search-input .divider-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  padding: 0px 12px;
+  position: absolute;
+  top: 39px;
+  width: 418px;
+  z-index: 2;
+}
+
+.search-input .divider-2 {
+  align-self: stretch;
+  border: 1px solid;
+  border-color: #666666;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .DDS-form-style-focus-2 {
+  border: 1px solid;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.search-input .field-12 {
+  border: 4px solid;
+  left: -5px;
+  opacity: 0.4;
+  position: relative;
+  top: -5px;
+}
+
+.search-input .input-field {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  padding: 8px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .left {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  position: relative;
+}
+
+.search-input .instance-node-2 {
+  flex: 0 0 auto !important;
+}
+
+.search-input .type {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+  height: 24px;
+  position: relative;
+}
+
+.search-input .indicator-2 {
+  background-color: #666666;
+  height: 21.51px;
+  margin-left: -1px;
+  position: relative;
+  width: 3px;
+}
+
+.search-input .input {
+  color: #666666;
+  font-family: "TESCO Modern-Italic", Helvetica;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.search-input .input-2 {
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.search-input .indicator-3 {
+  background-color: #666666;
+  height: 21.51px;
+  position: relative;
+  width: 3px;
+}
+
+.search-input .search-content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  z-index: -1;
+}
+
+.search-input .results {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .search-result-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .search-result {
+  align-self: stretch;
+  color: #00529f;
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.search-input .span {
+  font-weight: 700;
+}
+
+.search-input .text-wrapper-2 {
+  font-family: "TESCO Modern-Regular", Helvetica;
+}
+
+.search-input .contents-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #007eb3;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .search-result-i-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #007eb3;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .text-wrapper-3 {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.search-input .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "TESCO Modern-Regular", Helvetica;
+}
+
+.search-input .results-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 36px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .title-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4px;
+  padding: 8px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .title {
+  align-self: stretch;
+  color: #333333;
+  flex: 1;
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.search-input .mobile-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .divider-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.search-input .search-content-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 354px;
+}
+
+.search-input .error-text-2 {
+  color: #cc3333;
+  flex: 1;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.search-input.device-0-mobile {
+  width: 354px;
+}
+
+.search-input.device-0-desktop {
+  gap: 8px;
+  width: 470px;
+}
+
+.search-input .state-18-active {
+  color: #333333;
+}
+
+.search-input .state-18-disabled {
+  color: #333333;
+}
+
+.search-input .state-18-focus {
+  color: #333333;
+}
+
+.search-input .state-18-default {
+  color: #333333;
+}
+
+.search-input .state-18-error {
+  color: #cc3333;
+}
+
+.search-input .state-18-error-focus {
+  color: #cc3333;
+}
+
+.search-input .state-19-active {
+  background-color: #ffffff;
+}
+
+.search-input .state-19-disabled {
+  background-color: #f6f6f6;
+}
+
+.search-input .state-19-focus {
+  background-color: #ffffff;
+}
+
+.search-input .state-19-default {
+  background-color: #ffffff;
+}
+
+.search-input .state-19-error {
+  background-color: #ffffff;
+}
+
+.search-input .state-19-error-focus {
+  background-color: #ffffff;
+}
+
+.search-input .state-20-active {
+  border-color: #007eb3;
+  z-index: 1;
+}
+
+.search-input .device-1-desktop {
+  width: 418px;
+  z-index: 1;
+}
+
+.search-input .state-20-disabled {
+  border-color: #cccccc;
+  height: 40px;
+  z-index: 1;
+}
+
+.search-input .state-20-focus {
+  border-color: #007eb3;
+  height: 40px;
+}
+
+.search-input .device-1-mobile {
+  height: 40px;
+  width: 302px;
+}
+
+.search-input .complete-0-true {
+  z-index: 1;
+}
+
+.search-input .state-20-default {
+  border-color: #007eb3;
+  height: 40px;
+  z-index: 1;
+}
+
+.search-input .state-20-error {
+  border-color: #cc3333;
+  height: 40px;
+  z-index: 1;
+}
+
+.search-input .complete-0-false {
+  height: 40px;
+}
+
+.search-input .state-20-error-focus {
+  border-color: #cc3333;
+  height: 40px;
+  z-index: 1;
+}
+
+.search-input .complete-0-false.state-20-focus.device-1-mobile {
+  z-index: 0;
+}
+
+.search-input .device-1-desktop.complete-0-true.state-20-active {
+  height: 580px;
+}
+
+.search-input .state-22-active {
+  z-index: 0;
+}
+
+.search-input .device-3-desktop {
+  z-index: 0;
+}
+
+.search-input .state-22-disabled {
+  z-index: 0;
+}
+
+.search-input .complete-2-true {
+  z-index: 0;
+}
+
+.search-input .state-22-default {
+  z-index: 0;
+}
+
+.search-input .state-22-error {
+  z-index: 0;
+}
+
+.search-input .state-22-error-focus {
+  z-index: 0;
+}
+
+.search-input .complete-2-false.state-22-focus.device-3-mobile {
+  z-index: -1;
+}
+
+.search-input .state-23-active {
+  flex-direction: column;
+  padding: 4px 0px 0px;
+}
+
+.search-input .state-23-error {
+  gap: 10px;
+}
+
+.search-input .state-23-error-focus {
+  gap: 10px;
+}
+
+.search-input .DDS-form-style-focus-2.state-20-active .field-12 {
+  border-color: #007eb3;
+}
+
+.search-input .DDS-form-style-focus-2.device-1-desktop .field-12 {
+  width: 426px;
+}
+
+.search-input .DDS-form-style-focus-2.state-20-disabled .field-12 {
+  border-color: #007eb3;
+  height: 48px;
+}
+
+.search-input .DDS-form-style-focus-2.state-20-focus .field-12 {
+  border-color: #007eb3;
+  height: 48px;
+}
+
+.search-input .DDS-form-style-focus-2.device-1-mobile .field-12 {
+  height: 48px;
+  width: 310px;
+}
+
+.search-input .DDS-form-style-focus-2.state-20-default .field-12 {
+  border-color: #007eb3;
+  height: 48px;
+}
+
+.search-input .DDS-form-style-focus-2.state-20-error .field-12 {
+  border-color: #007eb3;
+  height: 48px;
+}
+
+.search-input .DDS-form-style-focus-2.complete-0-false .field-12 {
+  height: 48px;
+}
+
+.search-input .DDS-form-style-focus-2.state-20-error-focus .field-12 {
+  border-color: #cc3333;
+  height: 48px;
+}
+
+.search-input .DDS-form-style-focus-2.device-1-desktop.complete-0-true.state-20-active .field-12 {
+  height: 588px;
+}

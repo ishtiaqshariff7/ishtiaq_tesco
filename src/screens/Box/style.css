@@ -1,0 +1,38 @@
+.box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.box .header-wrapper {
+  border: 0px none;
+  height: 156px;
+  width: 1260px;
+}
+
+.box .header {
+  left: 0 !important;
+  mix-blend-mode: normal !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.box .toolkit-header-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.box .web-icons-account-wrapper {
+  margin-left: -1px !important;
+}
+
+.box .global-header-px {
+  padding: 8px 12px 12px !important;
+}
+
+.box .global-header-1260px {
+  flex: 0 0 auto !important;
+}

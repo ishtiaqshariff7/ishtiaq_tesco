@@ -1,0 +1,97 @@
+.local-navigation {
+  display: inline-flex;
+  position: relative;
+}
+
+.local-navigation .label-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 12px 8px;
+  position: relative;
+}
+
+.local-navigation .text-4 {
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.local-navigation .text-5 {
+  color: #00529f;
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.local-navigation .web-icons-expand-instance {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.local-navigation .text-6 {
+  color: #007eb3;
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.local-navigation .web-icons-contract-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.local-navigation.state-23-selected {
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  border-color: #007eb3;
+}
+
+.local-navigation.state-23-default {
+  gap: 8px;
+}
+
+.local-navigation.type-dropdown {
+  align-items: center;
+  gap: 8px;
+  padding: 10px 8px;
+}
+
+.local-navigation.type-default {
+  align-items: flex-start;
+}
+
+.local-navigation.type-default.state-23-selected {
+  flex-direction: column;
+}
+
+.local-navigation.state-23-selected .text-4 {
+  color: #007eb3;
+}
+
+.local-navigation.state-23-default .text-4 {
+  color: #00529f;
+}

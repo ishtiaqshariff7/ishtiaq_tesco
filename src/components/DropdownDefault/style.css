@@ -1,0 +1,893 @@
+.dropdown-default {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 354px;
+}
+
+.dropdown-default .field {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.dropdown-default .label-container {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.dropdown-default .label-7 {
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dropdown-default .field-container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  position: relative;
+}
+
+.dropdown-default .field-2 {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.dropdown-default .hint-selection {
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.dropdown-default .class-3 {
+  left: 268px !important;
+  position: absolute !important;
+  top: 7px !important;
+}
+
+.dropdown-default .class-4 {
+  left: 268px !important;
+  position: absolute !important;
+  top: 3px !important;
+}
+
+.dropdown-default .overlap {
+  position: relative;
+  width: 305px;
+}
+
+.dropdown-default .DDS-form-style-focus {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.dropdown-default .field-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #007eb3;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 305px;
+}
+
+.dropdown-default .field-4 {
+  border: 4px solid;
+  border-color: #007eb3;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.dropdown-default .hint-selection-2 {
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.dropdown-default .class-5 {
+  left: 269px !important;
+  position: absolute !important;
+  top: 8px !important;
+}
+
+.dropdown-default .class-6 {
+  left: 269px !important;
+  position: absolute !important;
+  top: 4px !important;
+}
+
+.dropdown-default .overlap-wrapper {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.dropdown-default .overlap-2 {
+  position: relative;
+  width: 305px;
+}
+
+.dropdown-default .DDS-form-style-error {
+  background-color: #ffffff;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.dropdown-default .field-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cc3333;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 305px;
+}
+
+.dropdown-default .field-6 {
+  border: 4px solid;
+  border-color: #cc3333;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.dropdown-default .hint-selection-3 {
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.dropdown-default .error-text {
+  align-self: stretch;
+  color: #cc3333;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.dropdown-default .label-8 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 2px;
+  position: relative;
+}
+
+.dropdown-default .label-9 {
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dropdown-default .optional-mark {
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dropdown-default .label-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  position: relative;
+}
+
+.dropdown-default .label-11 {
+  color: #333333;
+  font-family: "TESCO Modern-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dropdown-default .optional-mark-2 {
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dropdown-default .hint {
+  align-self: stretch;
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.dropdown-default .field-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.dropdown-default .field-7 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.dropdown-default .overlap-group-2 {
+  position: relative;
+  width: 354px;
+}
+
+.dropdown-default .DDS-form-style-2 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.dropdown-default .field-8 {
+  background-color: #ffffff;
+  border: 1px solid;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 354px;
+}
+
+.dropdown-default .field-9 {
+  border: 4px solid;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  width: 362px;
+}
+
+.dropdown-default .hint-selection-4 {
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  white-space: nowrap;
+  width: 298px;
+}
+
+.dropdown-default .class-7 {
+  left: 318px !important;
+  position: absolute !important;
+  top: 4px !important;
+}
+
+.dropdown-default .class-8 {
+  left: 318px !important;
+  position: absolute !important;
+  top: 8px !important;
+}
+
+.dropdown-default .hint-selection-5 {
+  color: #666666;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  white-space: nowrap;
+  width: 298px;
+}
+
+.dropdown-default .error-container {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.dropdown-default .p {
+  color: #cc3333;
+  flex: 1;
+  font-family: "TESCO Modern-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.dropdown-default .thirty-two-px {
+  flex: 0 0 auto;
+}
+
+.dropdown-default .forty-px {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.dropdown-default .state-4-disabled {
+  color: #333333;
+}
+
+.dropdown-default .state-4-focus {
+  color: #333333;
+}
+
+.dropdown-default .state-4-default {
+  color: #333333;
+}
+
+.dropdown-default .state-4-error {
+  color: #cc3333;
+}
+
+.dropdown-default .state-4-error-focus {
+  color: #cc3333;
+}
+
+.dropdown-default .state-2-default {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #666666;
+}
+
+.dropdown-default .size-1-thirty-two-px {
+  height: 32px;
+}
+
+.dropdown-default .size-1-forty-px {
+  height: 40px;
+}
+
+.dropdown-default .state-7-disabled {
+  height: 40px;
+}
+
+.dropdown-default .state-7-focus {
+  height: 40px;
+}
+
+.dropdown-default .state-7-default {
+  height: 40px;
+}
+
+.dropdown-default .state-7-error {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cc3333;
+}
+
+.dropdown-default .state-7-error-focus {
+  left: -4px;
+  position: relative;
+  top: -4px;
+  width: 313px;
+}
+
+.dropdown-default .state-7-error-focus.size-12-forty-px {
+  height: 48px;
+}
+
+.dropdown-default .size-12-thirty-two-px.state-7-error {
+  height: 32px;
+}
+
+.dropdown-default .state-7-error.size-12-forty-px {
+  height: 40px;
+}
+
+.dropdown-default .size-12-thirty-two-px.state-7-error-focus {
+  height: 40px;
+}
+
+.dropdown-default .state-8-disabled {
+  display: inline-flex;
+}
+
+.dropdown-default .state-8-focus {
+  display: inline-flex;
+}
+
+.dropdown-default .complete-true {
+  display: inline-flex;
+}
+
+.dropdown-default .size-16-thirty-two-px {
+  display: inline-flex;
+}
+
+.dropdown-default .state-8-error {
+  display: inline-flex;
+}
+
+.dropdown-default .state-8-error-focus {
+  display: inline-flex;
+}
+
+.dropdown-default .complete-false.state-8-default.size-16-forty-px {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.dropdown-default .state-3-default {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #666666;
+}
+
+.dropdown-default .size-17-thirty-two-px {
+  height: 32px;
+}
+
+.dropdown-default .size-17-forty-px {
+  height: 40px;
+}
+
+.dropdown-default .field.thirty-two-px .label-container {
+  height: 32px;
+}
+
+.dropdown-default .field.forty-px .label-container {
+  height: 40px;
+}
+
+.dropdown-default .field.thirty-two-px .field-container {
+  align-items: center;
+}
+
+.dropdown-default .field.forty-px .field-container {
+  align-items: flex-start;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px .hint-selection {
+  top: 4px;
+}
+
+.dropdown-default .field-2.size-1-forty-px .hint-selection {
+  top: 8px;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px .overlap {
+  height: 32px;
+}
+
+.dropdown-default .field-2.size-1-forty-px .overlap {
+  height: 40px;
+}
+
+.dropdown-default .field-2.state-2-disabled .DDS-form-style-focus {
+  background-color: #f6f6f6;
+}
+
+.dropdown-default .field-2.state-2-focus .DDS-form-style-focus {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-2.state-2-default .DDS-form-style-focus {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px .DDS-form-style-focus {
+  height: 32px;
+}
+
+.dropdown-default .field-2.size-1-forty-px .DDS-form-style-focus {
+  height: 40px;
+}
+
+.dropdown-default .field-2.state-2-error .DDS-form-style-focus {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-2.state-2-error-focus .DDS-form-style-focus {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-2.state-2-disabled .overlap_group {
+  border: 1px solid;
+  border-color: #cccccc;
+}
+
+.dropdown-default .field-2.state-2-focus .overlap_group {
+  left: -4px;
+  position: relative;
+  top: -4px;
+  width: 313px;
+}
+
+.dropdown-default .field-2.state-2-default .overlap_group {
+  height: 40px;
+}
+
+.dropdown-default .field-2.state-2-error .overlap_group {
+  height: 40px;
+}
+
+.dropdown-default .field-2.state-2-error-focus .overlap_group {
+  height: 40px;
+}
+
+.dropdown-default .field-2.state-2-focus.size-1-forty-px .overlap_group {
+  height: 48px;
+}
+
+.dropdown-default .field-2.state-2-disabled.size-1-forty-px .overlap_group {
+  height: 40px;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px.state-2-disabled .overlap_group {
+  height: 32px;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px.state-2-focus .overlap_group {
+  height: 40px;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px .field-3 {
+  height: 32px;
+}
+
+.dropdown-default .field-2.size-1-forty-px .field-3 {
+  height: 40px;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px .field-4 {
+  height: 40px;
+}
+
+.dropdown-default .field-2.size-1-forty-px .field-4 {
+  height: 48px;
+}
+
+.dropdown-default .field-2.size-1-thirty-two-px .hint-selection-2 {
+  top: 5px;
+}
+
+.dropdown-default .field-2.size-1-forty-px .hint-selection-2 {
+  top: 9px;
+}
+
+.dropdown-default .field.thirty-two-px .overlap-wrapper {
+  height: 32px;
+}
+
+.dropdown-default .field.forty-px .overlap-wrapper {
+  height: 40px;
+}
+
+.dropdown-default .field.thirty-two-px .overlap-2 {
+  height: 32px;
+}
+
+.dropdown-default .field.forty-px .overlap-2 {
+  height: 40px;
+}
+
+.dropdown-default .field.thirty-two-px .DDS-form-style-error {
+  height: 32px;
+}
+
+.dropdown-default .field.forty-px .DDS-form-style-error {
+  height: 40px;
+}
+
+.dropdown-default .overlap_group.size-12-thirty-two-px .field-5 {
+  height: 32px;
+}
+
+.dropdown-default .overlap_group.size-12-forty-px .field-5 {
+  height: 40px;
+}
+
+.dropdown-default .overlap_group.size-12-thirty-two-px .field-6 {
+  height: 40px;
+}
+
+.dropdown-default .overlap_group.size-12-forty-px .field-6 {
+  height: 48px;
+}
+
+.dropdown-default .field.thirty-two-px .hint-selection-3 {
+  top: 5px;
+}
+
+.dropdown-default .field.forty-px .hint-selection-3 {
+  top: 9px;
+}
+
+.dropdown-default .label-8.state-8-disabled .label-9 {
+  color: #333333;
+}
+
+.dropdown-default .label-8.state-8-focus .label-9 {
+  color: #333333;
+}
+
+.dropdown-default .label-8.state-8-default .label-9 {
+  color: #333333;
+}
+
+.dropdown-default .label-8.state-8-error .label-9 {
+  color: #cc3333;
+}
+
+.dropdown-default .label-8.state-8-error-focus .label-9 {
+  color: #cc3333;
+}
+
+.dropdown-default .label-8.state-8-disabled .optional-mark {
+  color: #666666;
+}
+
+.dropdown-default .label-8.state-8-focus .optional-mark {
+  color: #666666;
+}
+
+.dropdown-default .label-8.state-8-default .optional-mark {
+  color: #666666;
+}
+
+.dropdown-default .label-8.state-8-error .optional-mark {
+  color: #cc3333;
+}
+
+.dropdown-default .label-8.state-8-error-focus .optional-mark {
+  color: #cc3333;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px .overlap-group-2 {
+  height: 32px;
+}
+
+.dropdown-default .field-7.size-17-forty-px .overlap-group-2 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.state-3-disabled .DDS-form-style-2 {
+  background-color: #f6f6f6;
+}
+
+.dropdown-default .field-7.state-3-focus .DDS-form-style-2 {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-7.state-3-default .DDS-form-style-2 {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px .DDS-form-style-2 {
+  height: 32px;
+}
+
+.dropdown-default .field-7.size-17-forty-px .DDS-form-style-2 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.state-3-error .DDS-form-style-2 {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-7.state-3-error-focus .DDS-form-style-2 {
+  background-color: #ffffff;
+}
+
+.dropdown-default .field-7.state-3-disabled .field-13 {
+  border: 1px solid;
+  border-color: #cccccc;
+}
+
+.dropdown-default .field-7.state-3-focus .field-13 {
+  border-color: #cccccc;
+  left: -4px;
+  position: relative;
+  top: -4px;
+  width: 362px;
+}
+
+.dropdown-default .field-7.state-3-default .field-13 {
+  border-color: #cccccc;
+  height: 40px;
+}
+
+.dropdown-default .field-7.state-3-error .field-13 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cc3333;
+}
+
+.dropdown-default .field-7.state-3-error-focus .field-13 {
+  border-color: #cccccc;
+  left: -4px;
+  position: relative;
+  top: -4px;
+  width: 362px;
+}
+
+.dropdown-default .field-7.state-3-focus.size-17-forty-px .field-13 {
+  height: 48px;
+}
+
+.dropdown-default .field-7.state-3-disabled.size-17-forty-px .field-13 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px.state-3-disabled .field-13 {
+  height: 32px;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px.state-3-focus .field-13 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.state-3-error-focus.size-17-forty-px .field-13 {
+  height: 48px;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px.state-3-error .field-13 {
+  height: 32px;
+}
+
+.dropdown-default .field-7.state-3-error.size-17-forty-px .field-13 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px.state-3-error-focus .field-13 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.state-3-disabled .field-8 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.state-3-focus .field-8 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.state-3-default .field-8 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px .field-8 {
+  height: 32px;
+}
+
+.dropdown-default .field-7.size-17-forty-px .field-8 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.state-3-error .field-8 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.state-3-error-focus .field-8 {
+  border-color: #cc3333;
+}
+
+.dropdown-default .field-7.state-3-disabled .field-9 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.state-3-focus .field-9 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.state-3-default .field-9 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px .field-9 {
+  height: 40px;
+}
+
+.dropdown-default .field-7.size-17-forty-px .field-9 {
+  height: 48px;
+}
+
+.dropdown-default .field-7.state-3-error .field-9 {
+  border-color: #007eb3;
+}
+
+.dropdown-default .field-7.state-3-error-focus .field-9 {
+  border-color: #cc3333;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px .hint-selection-4 {
+  top: 5px;
+}
+
+.dropdown-default .field-7.size-17-forty-px .hint-selection-4 {
+  top: 9px;
+}
+
+.dropdown-default .field-7.size-17-thirty-two-px .hint-selection-5 {
+  top: 4px;
+}
+
+.dropdown-default .field-7.size-17-forty-px .hint-selection-5 {
+  top: 8px;
+}
